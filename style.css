@@ -1,0 +1,54 @@
+p{
+    color: rgb(38, 0, 255);
+    letter-spacing: 1px;
+    font-size: 15px;
+}
+span{
+    letter-spacing: 1px;
+}
+#mobilenet{
+    letter-spacing: 2px;
+}
+.bottom{
+    color: rgb(23, 8, 24);
+    position: fixed;
+    bottom: 0;
+    text-align: center;
+    width: 100%;
+    font-family: 'Roboto Slab', serif;
+}
+.img{
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+b{
+    color: rgb(5, 169, 206);
+}
+.first,.second{
+    background-color: white;
+    border-radius: 10px;
+    line-height: 2;
+}
+.test_image_and_result1,.test_image_and_result2,.test_image_and_result3,.test_image_and_result4,.test_image_and_result5,.test_image_and_result6,.test_image_and_result7,.test_image_and_result8,.test_image_and_result9{
+    margin-top: 15px;
+    background-color: rgb(241, 15, 173);
+    border-radius: 10px;
+    box-shadow: 1px 1px 25px rgb(9, 128, 225);
+    width:99%;
+    margin-bottom: 15px;
+}
+.white1,.white2,.white3,.white4,.white5,.white6,.white7,.white8,.white9{
+    color: rgb(236, 18, 210);
+}
+span{
+    color: rgb(255, 238, 0);
+}
+.google_lens{
+    color: black;
+}
+h4{
+    color: white;
+    font-weight: bold;
+}
